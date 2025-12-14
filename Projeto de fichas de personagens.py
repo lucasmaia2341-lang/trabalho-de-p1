@@ -1,3 +1,6 @@
+# --------------------------
+# Alunos: Lucas Maia e Iohannan Anthony 
+# --------------------------
 import json
 
 # --------------------------
@@ -94,3 +97,4 @@ while True:
         break
     else:
         print("\n❌ Opção inválida! Tente novamente.\n")
+
